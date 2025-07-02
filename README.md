@@ -1,1 +1,1 @@
-##This project develops a cryptography tool using shift ciphers: Caesar cipher and ROT13. Caesar shifts letters by a set number (e.g., 3), while ROT13 shifts by 13. Both replace letters to make messages harder to decode.
+## This project develops a cryptography tool using shift ciphers: Caesar cipher and ROT13. Caesar shifts letters by a set number (e.g., 3), while ROT13 shifts by 13. Both replace letters to make messages harder to decode.
